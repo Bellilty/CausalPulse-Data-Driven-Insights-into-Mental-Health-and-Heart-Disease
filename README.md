@@ -1,0 +1,2 @@
+# CausalPulse-Data-Driven-Insights-into-Mental-Health-and-Heart-Disease
+**CausalPulse** is a data science project applying causal inference techniques to investigate the relationships between mental health, heart disease, and the impact of music on mental well-being. This project leverages advanced statistical methods and machine learning to draw insights and explore causality in health-related datasets.
